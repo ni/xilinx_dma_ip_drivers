@@ -3,6 +3,7 @@ modules.order
 *.ko
 *.o
 *.mod.c
+*.mod
 .tar.gz
 .*.cmd
 QDMA/linux-kernel/apps/dma-ctl/dma-ctl
